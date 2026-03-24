@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 IT Student  
-- 💡 Focus: Backend Development (Spring Boot, NodeJS) | PostgreSQL | Business Analysis  
+- 💡 Focus: Backend Development with Spring Boot & NodeJS | PostgreSQL | BA mindset
 - 🎯 Goal: Become a Backend Engineer with strong data and system analysis skills  
 
 ## 🛠️ Tech Stack
