@@ -6,7 +6,7 @@
 - Goal: Become a Backend Engineer with strong data and system analysis skills  
 
 ## Tech Stack
-- Backend: Spring Boot, NodeJS, TypeScript, 
+- Backend: Spring Boot, NodeJS
 - Database: PostgreSQL, SQL Server  
 - Data Processing: SSIS (ETL basics)  
 - Others: Python  
