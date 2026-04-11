@@ -13,8 +13,8 @@
 
 ## Featured Projects
 - Dermify System (Client + Server)  
-- Warehouse Management
-- ai-phone-detection-system 
+- Warehouse Management (ql_kho_mypham)
+- Phone Detection Ai (ai-phone-detection-system)
 
 ## Contact
 - Email: quoctinhstudy1911@gmail.com
