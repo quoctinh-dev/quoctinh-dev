@@ -4,7 +4,7 @@
 
 I'm a final-year Information Technology student at Sai Gon Technology University (STU) and currently participating in the Java Backend Full-Skill Program at Rikkei Academy.
 
-My primary interests are backend development, database systems, software architecture, and system analysis. I am continuously improving my technical foundation through academic projects, structured training programs, and hands-on software development practice.
+My interests include backend development, database systems, software architecture, and system analysis. I am continuously improving my technical foundation through academic projects, structured training, and hands-on software development.
 
 ---
 
@@ -13,8 +13,8 @@ My primary interests are backend development, database systems, software archite
 * 🎓 Final-year Information Technology Student at Sai Gon Technology University (STU)
 * 💻 Java Backend Trainee at Rikkei Academy
 * 🌱 Currently learning Spring Boot and RESTful API Development
-* 🗄 Strong interest in Database Design and Backend Systems
-* 🤖 Applying AI-assisted development tools to improve productivity and learning efficiency
+* 🗄 Interested in Database Design and Backend Systems
+* 🤖 Using AI-assisted tools to improve learning and development productivity
 * 🇻🇳 Based in Ho Chi Minh City, Vietnam
 
 ---
@@ -56,26 +56,26 @@ My primary interests are backend development, database systems, software archite
 
 ## Technical Skills
 
-### Programming Languages
+### Languages
 
 * Java
 * JavaScript
 * SQL
 
-### Backend Technologies
+### Backend
 
 * Spring Boot (Learning)
 * Node.js
 * Express.js
 * Laravel
 
-### Database Systems
+### Databases
 
 * PostgreSQL
 * MySQL
 * SQL Server
 
-### Tools & Platforms
+### Tools
 
 * Git
 * GitHub
@@ -87,13 +87,12 @@ My primary interests are backend development, database systems, software archite
 
 * Cursor AI
 * GitHub Copilot
-* Prompt Engineering
 
 ---
 
-## Academic & Personal Projects
+## Current Projects
 
-Currently working on academic and personal projects to strengthen practical skills in:
+I am currently working on academic and personal projects to strengthen my practical skills in:
 
 * Backend Development
 * Database Design
@@ -109,13 +108,7 @@ Project repositories and documentation will be published progressively as they r
 
 My goal is to become a Backend Developer specializing in Java and Spring Boot technologies.
 
-I am currently building a solid foundation in backend engineering, database systems, and software architecture while preparing for project-based internships and real-world software development opportunities.
-
----
-
-## Engineering Philosophy
-
-> Software engineering is not only about writing code. It is about understanding requirements, designing maintainable systems, solving meaningful problems, and continuously improving through learning and practice.
+I am currently building a strong foundation in backend engineering, database systems, and software architecture while preparing for project-based internships and real-world software development opportunities.
 
 ---
 
@@ -127,5 +120,5 @@ I am currently building a solid foundation in backend engineering, database syst
 
 ## Connect With Me
 
-* LinkedIn: linkedin.com/in/quoctinh-dev
+* LinkedIn: [quoctinh-dev](https://www.linkedin.com/in/quoctinh-dev)
 * Email: [quoctinhstudy1911@gmail.com](mailto:quoctinhstudy1911@gmail.com)
