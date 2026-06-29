@@ -1,50 +1,90 @@
-# Hi there, I'm Nguyễn Quốc Tịnh 👋
+# Nguyễn Quốc Tịnh
 
-### Backend Developer Student | Java Backend Learning Path
+## Backend Developer Student
 
-I'm a final-year Information Technology student at Sai Gon Technology University (STU) and currently participating in the Java Backend Full-Skill Program at Rikkei Academy.
+Final-year Information Technology student at Sai Gon Technology University (STU), currently participating in the Java Backend Full-Skill Program at Rikkei Academy.
 
-My interests include backend development, database systems, software architecture, and system analysis. I am continuously improving my technical foundation through academic projects, structured training, and hands-on software development.
-
----
-
-## About Me
-
-* 🎓 Final-year Information Technology Student at Sai Gon Technology University (STU)
-* 💻 Java Backend Trainee at Rikkei Academy
-* 🌱 Currently learning Spring Boot and RESTful API Development
-* 🗄 Interested in Database Design and Backend Systems
-* 🤖 Using AI-assisted tools to improve learning and development productivity
-* 🇻🇳 Based in Ho Chi Minh City, Vietnam
+I am interested in backend development, database systems, software architecture, and system analysis. My goal is to build a strong technical foundation through academic projects, structured learning, and practical software development experience.
 
 ---
 
-## Current Learning Progress
+# About Me
 
-### Backend Development
+I am currently focusing on developing backend applications using Java and Spring Boot while continuously improving my knowledge of database design, RESTful APIs, and software engineering principles.
 
-* Java Core
-* Object-Oriented Programming (OOP)
-* JDBC
-* Spring Boot
+I enjoy learning modern backend technologies and applying them to real-world projects in order to strengthen both my technical skills and problem-solving abilities.
+
+---
+
+# Current Focus
+
+My current learning objectives include:
+
+* Java Backend Development
+* Spring Boot Framework
 * RESTful API Design
+* Database Design
+* Software Architecture
+* Backend Project Development
 
-### Database Systems
+---
+
+# Technical Skills
+
+## Programming Languages
+
+* Java
+* SQL
+
+## Backend Development
+
+* Spring Boot
+* Node.js
+* Express.js
+* Laravel
+
+## Database Systems
 
 * PostgreSQL
 * MySQL
 * SQL Server
+
+## Development Tools
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* Visual Studio Code
+* Postman
+
+---
+
+# Currently Learning
+
+## Backend
+
+* Java Core
+* Object-Oriented Programming
+* JDBC
+* Spring Boot
+* Spring Data JPA
+* Spring Security
+* RESTful API Development
+
+## Database
+
+* PostgreSQL
 * Database Modeling
 * SQL Query Optimization
 
-### Software Engineering
+## Software Engineering
 
-* Git & GitHub
+* Git Workflow
 * System Analysis
 * Software Design Principles
-* API Testing with Postman
+* API Testing
 
-### Upcoming Topics
+## Next Learning Goals
 
 * Microservices Architecture
 * Docker
@@ -54,71 +94,50 @@ My interests include backend development, database systems, software architectur
 
 ---
 
-## Technical Skills
+# Current Projects
 
-### Languages
+I am actively developing academic and personal projects to improve my practical experience in:
 
-* Java
-* JavaScript
-* SQL
-
-### Backend
-
-* Spring Boot (Learning)
-* Node.js
-* Express.js
-* Laravel
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* SQL Server
-
-### Tools
-
-* Git
-* GitHub
-* Postman
-* IntelliJ IDEA
-* VS Code
-
-### AI-Assisted Development
-
-* Cursor AI
-* GitHub Copilot
-
----
-
-## Current Projects
-
-I am currently working on academic and personal projects to strengthen my practical skills in:
-
-* Backend Development
-* Database Design
+* Java Backend Development
 * RESTful API Development
+* Database Design
 * Software Architecture
 * Web Application Development
 
-Project repositories and documentation will be published progressively as they reach production-ready quality.
+My repositories will be continuously updated as each project reaches a stable and production-ready stage.
 
 ---
 
-## Career Objective
+# Career Objective
 
-My goal is to become a Backend Developer specializing in Java and Spring Boot technologies.
+My career goal is to become a professional Backend Developer specializing in Java and Spring Boot technologies.
 
-I am currently building a strong foundation in backend engineering, database systems, and software architecture while preparing for project-based internships and real-world software development opportunities.
-
----
-
-## Certifications
-
-* TOEIC 695
+I am committed to continuously improving my technical skills, software engineering knowledge, and practical development experience to prepare for internship opportunities and long-term professional growth.
 
 ---
 
-## Connect With Me
+# Education
 
-* LinkedIn: [quoctinh-dev](https://www.linkedin.com/in/quoctinh-dev)
-* Email: [quoctinhstudy1911@gmail.com](mailto:quoctinhstudy1911@gmail.com)
+Sai Gon Technology University (STU)
+
+Bachelor of Information Technology
+
+Final-year Student
+
+---
+
+# Certifications
+
+TOEIC 695
+
+---
+
+# Contact
+
+LinkedIn
+
+https://www.linkedin.com/in/quoctinh-dev
+
+Email
+
+[quoctinhstudy1911@gmail.com](mailto:quoctinhstudy1911@gmail.com)
