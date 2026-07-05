@@ -273,7 +273,7 @@ quoctinhstudy1911@gmail.com
 
 GitHub
 
-https://github.com/<quoctinh-dev>
+https://github.com/quoctinh-dev
 
 ---
 
